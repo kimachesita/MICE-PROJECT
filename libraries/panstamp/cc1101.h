@@ -516,5 +516,7 @@ class CC1101
     byte receiveData(CCPACKET *packet);
 };
 
+
+
 #endif
 
